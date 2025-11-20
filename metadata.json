@@ -1,0 +1,7 @@
+{
+  "name": "LogoGuard AI",
+  "description": "参照ロゴデータと現場写真を比較し、回転や照明などの環境要因を無視して欠陥を検知する外観品質検査ツール。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
